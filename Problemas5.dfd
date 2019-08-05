@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+m
+2
+20
+1
+c
+5
+207.7
+4
+1
+74
+'Suponiendo que la masa del agua es 20gr y la capacidad calórica 207.7J/k'
+4
+1
+77
+'Según lo anterior ingrese el cambio de la temperatura (Delta T) en °Celsius'
+5
+1
+2
+dt
+6
+1
+1
+q
+6
+m*c*dt
+4
+1
+38
+'Por tanto la energia necesaria es ',q
+1
